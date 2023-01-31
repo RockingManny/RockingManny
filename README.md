@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RockingManny
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning COmputer Science and Engineering
+- 🌱 I’m currently learning Computer Science and Engineering
 - 💞️ I’m looking to collaborate on Virtual Reality and Simulations
 - 📫 How to reach me - https://www.linkedin.com/in/manimit-haldar
 
