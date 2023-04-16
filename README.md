@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RockingManny
+- 👋 Hi, I’m Manimit A.K.A. RockingManny
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Computer Science and Engineering
 - 💞️ I’m looking to collaborate on Virtual Reality and Simulations
